@@ -1,0 +1,8 @@
+/vendor/
+.idea/*
+icons/*
+*.svg
+php/images/*
+*.png
+*.jpeg
+*.jpg
